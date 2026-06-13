@@ -4,21 +4,19 @@
 
 A portable ultra-low-profile (ULP) wireless 3×5+2 split keyboard.
 
-
 ## Overview
 
 - Switch support: Cherry MX ULP or Kailh PG1316s
 - 34 keys, splayed and staggered with choc spacing
 - Wireless
 - CNC aluminum case
-
+- Reversible PCB (New!)
 
 ## Parameters
 
 ![Dimension](./docs/images/dimension.png)
 
 ![Layout](./docs/images/layout.png)
-
 
 ## Documentation
 
@@ -38,7 +36,6 @@ A portable ultra-low-profile (ULP) wireless 3×5+2 split keyboard.
 
 ## Photos
 
-
 - [Gallery](./gallery/README.md)
 - [Prototype Gallery](./images/README.md)
   - Diff: Port position, Thumb-cluster layout and only hot-plate way.
@@ -53,11 +50,9 @@ A portable ultra-low-profile (ULP) wireless 3×5+2 split keyboard.
 - [ceoloide/ergogen-footprints](https://github.com/ceoloide/ergogen-footprints)
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch)
 
-
 ## Limitations and Disclaimer
 
 This is a hobby-driven project. Some aspects may be incomplete, imperfect, or problematic. Use this project **at your own risk**, and note that no warranties or guarantees are provided.
-
 
 ## License
 
